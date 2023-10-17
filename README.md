@@ -1,16 +1,16 @@
 ## Create project
 ```bash
--npx create-next-app@latest
+npx create-next-app@latest
 ```
 
 ## Generate secure secret code with cmd
 ```bash
--openssl genrsa 2048
+openssl genrsa 2048
 ```
 
 ## Upstash:clear all data command
 ```bash
--flushall
+flushall
 ```
 
 ## Important tech includes:
